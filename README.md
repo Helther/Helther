@@ -12,8 +12,11 @@ I'm looking to create web apps and services for ML models.<br>And i'm learning h
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Helther&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Helther&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Helther&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+### 🔝 Top Repos
+[🔗geometrix - A header-only C++ math libary, containing fast linear algebra and trigonometry functions. With no dependencies](https://github.com/Illiren/geometrix)<br/><br/>
+[🔗dns_server_mt - Multithreaded DNS Server with non-blocking dns cache access and logging](https://github.com/Helther/dns_server_mt)<br/><br/>
+[🔗voice-pick-tbot - Text To Speech Synthesis Telegram Bot with voice customization](https://github.com/Helther/voice-pick-tbot)<br/><br/>
+[🔗server-mon-bot - Bot, that provides the ability to display current readings from host hardware sensors and notify about status changes](https://github.com/Helther/server-mon-bot)<br/><br/>
+[🔗file_change_watcher -  CLI multithreaded app for viewing live file changes](https://github.com/Helther/file_change_watcher)
 ---
 [![](https://visitcount.itsvg.in/api?id=Helther&icon=5&color=0)](https://visitcount.itsvg.in)
